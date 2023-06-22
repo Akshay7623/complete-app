@@ -38,7 +38,7 @@ const MakeRazorpayVerify = require('./routes/makeRazorpayVerifyRoute.js');
 const razorpayWebook = require('./routes/razorpayWebhook.js');
 const {AdminDataModel} = require('./model/model');
 const path = require('path');
-const port = 5000;
+const port = process.env.PORT || 4000;
 
 const app = express();
 app.use(express.json());
