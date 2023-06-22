@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7fb86a8.css",
+    "main.js": "/static/js/main.261dfb79.js",
+    "static/media/item1.jpg": "/static/media/item1.c7c30b234e07eb63f3ca.jpg",
+    "static/media/item2.jpg": "/static/media/item2.332403a44cedfdc08e97.jpg",
+    "static/media/item3.jpg": "/static/media/item3.adda06fa1e925ebff89e.jpg",
+    "static/media/item0.jpg": "/static/media/item0.4899fcb1131a55270593.jpg",
+    "static/media/loading.png": "/static/media/loading.353105275c5849179c56.png",
+    "static/media/addMoney.png": "/static/media/addMoney.f20d6c04332e8bca3ce9.png",
+    "static/media/Emi.svg": "/static/media/Emi.6ddfa91fa9c0fbef7a69d8a41e1a322d.svg",
+    "static/media/Rupay.svg": "/static/media/Rupay.4b9d93d615660d3069e7fc0e52217288.svg",
+    "static/media/googlepay.svg": "/static/media/googlepay.489c560617bcfbd1793ce2061e2e092b.svg",
+    "static/media/UnknownCard.svg": "/static/media/UnknownCard.3c9b81752f71e2935a83039ef1c44465.svg",
+    "static/media/paytm.svg": "/static/media/paytm.4f8412092ed275baeac0ff460c1dea97.svg",
+    "static/media/arrow.svg": "/static/media/arrow.50b508612b81ee28be9e.svg",
+    "static/media/AmericanExpress.svg": "/static/media/AmericanExpress.153d872c5049a6e9a5bcee0f1cc8e665.svg",
+    "static/media/telegram.svg": "/static/media/telegram.321403849160a46062e6396da2e29e74.svg",
+    "static/media/Paylater.svg": "/static/media/Paylater.21cddecc2a3bd1ff7985041fb95cf97f.svg",
+    "static/media/visa.svg": "/static/media/visa.73e088e282a50a6709363a43fe6b0c64.svg",
+    "static/media/netBanking.svg": "/static/media/netBanking.f14bc647d9be1e07057603d4372ba42c.svg",
+    "index.html": "/index.html",
+    "static/media/upi.svg": "/static/media/upi.18ad7abae1463fff100d2a6cc9387b8f.svg",
+    "static/media/Master.svg": "/static/media/Master.08b4dede71ab525a66420dc4f33423e6.svg",
+    "static/media/wallet.svg": "/static/media/wallet.b27325e58227eae8e2ed59508ac197d4.svg",
+    "static/media/card.svg": "/static/media/card.0a259cf1d97c29206ae24b3fa9c4dbc6.svg",
+    "static/media/phonepe.svg": "/static/media/phonepe.0a5400c217c9c1f2128caafcb8c1f77f.svg",
+    "static/media/bhim.svg": "/static/media/bhim.2a6db1f405b2c76a70cbc805c7985cf0.svg",
+    "main.b7fb86a8.css.map": "/static/css/main.b7fb86a8.css.map",
+    "main.261dfb79.js.map": "/static/js/main.261dfb79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fb86a8.css",
+    "static/js/main.261dfb79.js"
+  ]
+}
